@@ -39,6 +39,6 @@
   },
   "homepage": "https://github.com/mrkchoi/W8D1#readme",
   "devDependencies": {
-    "webpack-cli": "^3.3.5"
+    "webpack-cli": "^3.3.12"
   }
 }
